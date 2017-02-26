@@ -1,0 +1,4 @@
+git branch branch1
+git checkout branch1
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A[C[B ([A[A[B( creating branch1)[B[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D  [D( switching to branch1)
+git push origin branch1 (pushing branch1)
